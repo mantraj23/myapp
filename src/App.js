@@ -1,24 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "./App.css";
+import Compose from "./my_mail_components/Compose";
+import Navbar from "./my_mail_components/Navbar";
+import Settings from "./my_mail_components/Settings";
+import Sidebar from "./my_mail_components/Sidebar";
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar title="MYMAIL" newMail="Compose +" />
+      <Sidebar />
+      <Router>
+      <main>
+        <Routes>
+          <Route path="/" element={<Compose />} />
+          <Route path="/settings" element={<Settings />} />
+        </Routes>
+      </main>
+      </Router>
+    </>
   );
 }
 

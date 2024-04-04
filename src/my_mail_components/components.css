@@ -1,0 +1,34 @@
+/* Navbar */
+  /* search input */
+.search-input{
+    width: 750px;
+    margin-right: 10px;
+    border: 1px solid #020202;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+
+  /* Sidebar */
+    /* sidebar button */
+.sidebarButton{
+  color:rgb(15, 13, 13);
+  background-color: #e6eaeada;
+  border: none; 
+  border-radius: 5px;
+}
+
+/* compose */
+ /* text area */
+
+textarea{
+  margin: 0 auto; /* This centers the textarea horizontally */
+  display: block; /* Ensures the textarea behaves as a block-level element */
+  font-family: Arial, sans-serif; /* Font family */
+  font-size: 16px; /* Font size */
+  color: #0f0a0a; /* Text color */
+  width: 600px; /* Width of the textarea */
+  height: 400px; /* Height of the textarea */
+  padding: 20px; /* Padding around the content */
+  border: 3px solid #0f0e0e; /* Border */
+  border-radius: 7px; /* Border radius */
+}
