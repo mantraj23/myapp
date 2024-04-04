@@ -5,7 +5,10 @@ export default function Settings() {
   return (
     <div className=''>
         <TextField id="outlined-basic" label="Outlined" variant="outlined" sx={{margin: "", width:"300px", }} />
-        hello 
+        hello  Mantra
+        <div >
+            Mantra ki gand 
+        </div>
         {/* <textarea placeholder='hi you'></textarea>
 
          */}
