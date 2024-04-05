@@ -1,9 +1,13 @@
 import React from "react";
 import "./components.css";
+import { Link } from "react-router-dom";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faBars } from '@fortawesome/free-solid-svg-icons';
+
 
 export default function sidebar() {
   return (
-    <div>
+    <div className="sidebar-sticky">
       <button
         className="sidebarButton"
         type="button"
@@ -11,7 +15,7 @@ export default function sidebar() {
         data-bs-target="#offcanvasWithBothOptions"
         aria-controls="offcanvasWithBothOptions"
       >
-        YOUR MAILS
+         <FontAwesomeIcon icon={faBars} />
       </button>
 
       <div
@@ -22,9 +26,9 @@ export default function sidebar() {
         aria-labelledby="offcanvasWithBothOptionsLabel"
       >
         <div className="offcanvas-header">
-          <h5 className="offcanvas-title" id="offcanvasWithBothOptionsLabel">
-            YOUR MAILS
-          </h5>
+          <h2 className="offcanvas-title" id="offcanvasWithBothOptionsLabel">
+            MY MAIL
+          </h2>
           <button
             type="button"
             className="btn-close"
@@ -32,10 +36,24 @@ export default function sidebar() {
             aria-label="Close"
           ></button>
         </div>
-        <div className="offcanvas-body">
-          <p>
-            Try scrolling the rest of the page to see this option in action.
-          </p>
+        <div className="sidebar">
+          <h4>Your Mails</h4>
+          <div className="sidebar-menu">
+            <ul>
+              <li>
+                <Link to="/inbox">Inbox</Link>
+              </li>
+              <li>
+                <Link to="/sent">Sent</Link>
+              </li>
+              <li>
+                <Link to="/draft">Draft</Link>
+              </li>
+              <li>
+                <Link to="/compose">Compose</Link>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>

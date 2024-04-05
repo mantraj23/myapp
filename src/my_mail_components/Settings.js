@@ -1,17 +1,17 @@
-import { TextField } from '@mui/material'
-import React from 'react'
+import { Link, Outlet } from "react-router-dom";
+import React from "react";
 
 export default function Settings() {
   return (
-    <div className=''>
-        <TextField id="outlined-basic" label="Outlined" variant="outlined" sx={{margin: "", width:"300px", }} />
-        hello  Mantra
-        <div >
-            Mantra ki gand 
-        </div>
-        {/* <textarea placeholder='hi you'></textarea>
+    <div className="helpPage">
+      <h2>MY MAIL HELP</h2>
+      <p> We are here to help you</p>
+      <nav>
+        <Link to="/faq">View the Faq</Link>
+        <Link to="/contactus">View the Faq</Link>
+      </nav>
 
-         */}
+      <Outlet />
     </div>
-  )
+  );
 }

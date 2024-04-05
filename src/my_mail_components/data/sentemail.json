@@ -1,0 +1,178 @@
+[
+    {
+      "id": 1,
+      "send_to": "john@example.com",
+      "subject": "Meeting Reminder",
+      "date": "2024-04-01",
+      "content": "Just a reminder that our weekly team meeting is scheduled for tomorrow at 10:00 AM in the conference room. Please be prepared with any updates or agenda items you'd like to discuss."
+    },
+    {
+      "id": 2,
+      "send_to": "alice@example.com",
+      "subject": "Project Update",
+      "date": "2024-04-02",
+      "content": "I wanted to provide you with an update on the progress of our latest project. We've completed the initial phase and are moving on to the next steps. Please review the attached document for more details."
+    },
+    {
+      "id": 3,
+      "send_to": "bob@example.com",
+      "subject": "Newsletter",
+      "date": "2024-04-03",
+      "content": "Check out our latest newsletter for updates on upcoming events, promotions, and industry news. Don't miss out on exciting opportunities and valuable resources!"
+    },
+    {
+      "id": 4,
+      "send_to": "charlie@example.com",
+      "subject": "Technical Support",
+      "date": "2024-04-04",
+      "content": "Our technical support team is here to assist you with any questions or issues you may encounter. Please don't hesitate to reach out if you need assistance."
+    },
+    {
+      "id": 5,
+      "send_to": "david@example.com",
+      "subject": "Product Launch",
+      "date": "2024-04-05",
+      "content": "Exciting news! We're thrilled to announce the launch of our newest product. Check out our website for more information and special launch offers."
+    },
+    {
+      "id": 6,
+      "send_to": "emma@example.com",
+      "subject": "New Feature Announcement",
+      "date": "2024-04-06",
+      "content": "We're excited to announce the release of our latest feature! This new addition will enhance your user experience and improve productivity. Check it out now!"
+    },
+    {
+      "id": 7,
+      "send_to": "frank@example.com",
+      "subject": "Weekly Report",
+      "date": "2024-04-07",
+      "content": "Here's your weekly report summarizing key metrics, achievements, and upcoming goals. Review the report and let me know if you have any questions."
+    },
+    {
+      "id": 8,
+      "send_to": "grace@example.com",
+      "subject": "Invitation to Webinar",
+      "date": "2024-04-08",
+      "content": "You're invited to our upcoming webinar on the latest industry trends and best practices. Reserve your spot today and stay ahead of the competition!"
+    },
+    {
+      "id": 9,
+      "send_to": "henry@example.com",
+      "subject": "Training Session",
+      "date": "2024-04-09",
+      "content": "Don't forget about the training session scheduled for next week. This session will cover important topics and provide hands-on experience. See you there!"
+    },
+    {
+      "id": 10,
+      "send_to": "isabella@example.com",
+      "subject": "Feedback Request",
+      "date": "2024-04-10",
+      "content": "We value your feedback! Please take a moment to complete our survey and share your thoughts. Your input helps us improve our products and services."
+    },
+    {
+      "id": 11,
+      "send_to": "jacob@example.com",
+      "subject": "Account Activation",
+      "date": "2024-04-11",
+      "content": "Welcome to our platform! Your account has been successfully activated. Log in to explore all the features and functionalities available to you."
+    },
+    {
+      "id": 12,
+      "send_to": "kate@example.com",
+      "subject": "Holiday Discount",
+      "date": "2024-04-12",
+      "content": "Celebrate the holidays with exclusive discounts on our products and services. Limited-time offers available. Shop now and save!"
+    },
+    {
+      "id": 13,
+      "send_to": "liam@example.com",
+      "subject": "Promotional Offer",
+      "date": "2024-04-13",
+      "content": "Take advantage of our special promotion! Enjoy discounts on selected items and services. Don't miss out on this great opportunity!"
+    },
+    {
+      "id": 14,
+      "send_to": "olivia@example.com",
+      "subject": "Account Security Update",
+      "date": "2024-04-14",
+      "content": "We've updated our security measures to better protect your account. Review your account settings and enable additional security features for added protection."
+    },
+    {
+      "id": 15,
+      "send_to": "peter@example.com",
+      "subject": "Upcoming Event",
+      "date": "2024-04-15",
+      "content": "Save the date! We're hosting an exciting event next month. Stay tuned for more details and get ready for an unforgettable experience."
+    },
+    {
+      "id": 16,
+      "send_to": "quinn@example.com",
+      "subject": "New Product Demo",
+      "date": "2024-04-16",
+      "content": "Join us for a live demo of our latest product. Learn about its features, benefits, and how it can streamline your workflow. Register now!"
+    },
+    {
+      "id": 17,
+      "send_to": "ryan@example.com",
+      "subject": "Important Notice",
+      "date": "2024-04-17",
+      "content": "Please read the attached document for an important notice regarding upcoming changes to our policies and procedures. Your attention to this matter is appreciated."
+    },
+    {
+      "id": 18,
+      "send_to": "sophia@example.com",
+      "subject": "Account Verification",
+      "date": "2024-04-18",
+      "content": "We need to verify your account to ensure security and compliance. Please follow the instructions in the email to complete the verification process."
+    },
+    {
+      "id": 19,
+      "send_to": "thomas@example.com",
+      "subject": "Job Opportunity",
+      "date": "2024-04-19",
+      "content": "We're hiring! Explore exciting career opportunities and join our dynamic team. Visit our careers page to learn more and apply."
+    },
+    {
+      "id": 20,
+      "send_to": "victoria@example.com",
+      "subject": "New Blog Post",
+      "date": "2024-04-20",
+      "content": "Check out our latest blog post for insights, tips, and industry news. Stay informed and engaged with our thought-provoking content."
+    },
+    {
+      "id": 21,
+      "send_to": "william@example.com",
+      "subject": "Account Suspension",
+      "date": "2024-04-21",
+      "content": "Your account has been temporarily suspended due to suspicious activity. Please contact our support team to resolve this issue and regain access to your account."
+    },
+    {
+      "id": 22,
+      "send_to": "olivia@example.com",
+      "subject": "Feedback Request",
+      "date": "2024-04-22",
+      "content": "We value your feedback! Please take a moment to complete our survey and share your thoughts. Your input helps us improve our products and services."
+    },
+    {
+      "id": 23,
+      "send_to": "emma@example.com",
+      "subject": "Account Activation",
+      "date": "2024-04-23",
+      "content": "Welcome to our platform! Your account has been successfully activated. Log in to explore all the features and functionalities available to you."
+    },
+    {
+      "id": 24,
+      "send_to": "grace@example.com",
+      "subject": "Holiday Discount",
+      "date": "2024-04-24",
+      "content": "Celebrate the holidays with exclusive discounts on our products and services. Limited-time offers available. Shop now and save!"
+    },
+    {
+      "id": 25,
+      "send_to": "thomas@example.com",
+      "subject": "Promotional Offer",
+      "date": "2024-04-25",
+      "content": "Take advantage of our special promotion! Enjoy discounts on selected items and services. Don't miss out on this great opportunity!"
+    }
+  ]
+ 

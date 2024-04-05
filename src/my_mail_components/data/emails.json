@@ -1,0 +1,149 @@
+[
+    {
+      "id": 1,
+      "sender": "john@example.com",
+      "subject": "Meeting Reminder",
+      "date": "2024-04-01",
+      "content": "Just a reminder that our weekly team meeting is scheduled for tomorrow at 10:00 AM in the conference room. Please be prepared with any updates or agenda items you'd like to discuss."
+    },
+    {
+      "id": 2,
+      "sender": "mary@example.com",
+      "subject": "Project Update",
+      "date": "2024-04-02",
+      "content": "I wanted to provide you with an update on the progress of our latest project. We've completed the initial phase and are moving on to the next steps. Please review the attached document for more details."
+    },
+    {
+      "id": 3,
+      "sender": "info@example.com",
+      "subject": "Newsletter",
+      "date": "2024-04-03",
+      "content": "Check out our latest newsletter for updates on upcoming events, promotions, and industry news. Don't miss out on exciting opportunities and valuable resources!"
+    },
+    {
+      "id": 4,
+      "sender": "support@example.com",
+      "subject": "Technical Support",
+      "date": "2024-04-04",
+      "content": "Our technical support team is here to assist you with any questions or issues you may encounter. Please don't hesitate to reach out if you need assistance."
+    },
+    {
+      "id": 5,
+      "sender": "sales@example.com",
+      "subject": "Product Launch",
+      "date": "2024-04-05",
+      "content": "Exciting news! We're thrilled to announce the launch of our newest product. Check out our website for more information and special launch offers."
+    },
+    {
+      "id": 6,
+      "sender": "notification@example.com",
+      "subject": "New Message",
+      "date": "2024-04-06",
+      "content": "You have a new message waiting for you. Log in to your account to view and respond to messages from your contacts."
+    },
+    {
+      "id": 7,
+      "sender": "updates@example.com",
+      "subject": "System Updates",
+      "date": "2024-04-07",
+      "content": "We've made some updates to our system to improve performance and security. Please review the release notes for more information."
+    },
+    {
+      "id": 8,
+      "sender": "newsletter@example.com",
+      "subject": "Weekly Recap",
+      "date": "2024-04-08",
+      "content": "Here's a recap of this week's top stories, articles, and blog posts. Stay informed and up-to-date with the latest news and trends."
+    },
+    {
+      "id": 9,
+      "sender": "billing@example.com",
+      "subject": "Payment Confirmation",
+      "date": "2024-04-09",
+      "content": "Your payment has been successfully processed. Thank you for your prompt payment. Please let us know if you have any questions or concerns."
+    },
+    {
+      "id": 10,
+      "sender": "newsletter@example.com",
+      "subject": "Exclusive Offer",
+      "date": "2024-04-10",
+      "content": "As a valued subscriber, we're pleased to offer you an exclusive discount on select products. Don't miss out on this limited-time offer!"
+    },
+    {
+      "id": 11,
+      "sender": "reminder@example.com",
+      "subject": "Upcoming Deadline",
+      "date": "2024-04-11",
+      "content": "Just a friendly reminder that the deadline for submitting your report is approaching. Please ensure that your report is submitted on time."
+    },
+    {
+      "id": 12,
+      "sender": "feedback@example.com",
+      "subject": "Customer Feedback",
+      "date": "2024-04-12",
+      "content": "We value your feedback! Please take a moment to complete our brief survey and let us know how we're doing. Your input helps us improve our products and services."
+    },
+    {
+      "id": 13,
+      "sender": "invitation@example.com",
+      "subject": "Event Invitation",
+      "date": "2024-04-13",
+      "content": "You're invited to our upcoming event. Join us for an evening of networking, presentations, and refreshments. RSVP by the deadline to secure your spot."
+    },
+    {
+      "id": 14,
+      "sender": "announcement@example.com",
+      "subject": "Important Announcement",
+      "date": "2024-04-14",
+      "content": "We have an important announcement to share with you. Please read the attached document for details regarding upcoming changes and updates."
+    },
+    {
+      "id": 15,
+      "sender": "notification@example.com",
+      "subject": "Account Update",
+      "date": "2024-04-15",
+      "content": "There have been updates to your account settings. Log in to review and update your preferences, security settings, and contact information."
+    },
+    {
+      "id": 16,
+      "sender": "newsletter@example.com",
+      "subject": "Special Promotion",
+      "date": "2024-04-16",
+      "content": "Take advantage of our special promotion! For a limited time, enjoy exclusive discounts on select products. Shop now and save."
+    },
+    {
+      "id": 17,
+      "sender": "reminder@example.com",
+      "subject": "Payment Reminder",
+      "date": "2024-04-17",
+      "content": "This is a reminder that your payment is due soon. Please make your payment by the due date to avoid any late fees."
+    },
+    {
+      "id": 18,
+      "sender": "updates@example.com",
+      "subject": "Software Update",
+      "date": "2024-04-18",
+      "content": "A new software update is available. Make sure to download and install the latest version to access new features and improvements."
+    },
+    {
+      "id": 19,
+      "sender": "confirmation@example.com",
+      "subject": "Order Confirmation",
+      "date": "2024-04-19",
+      "content": "Your order has been confirmed and is now being processed. You will receive a notification once your order has shipped."
+    },
+    {
+      "id": 20,
+      "sender": "survey@example.com",
+      "subject": "Customer Satisfaction Survey",
+      "date": "2024-04-20",
+      "content": "We want to hear from you! Please take a moment to complete our customer satisfaction survey and let us know how we're doing."
+    },
+    {
+      "id": 21,
+      "sender": "announcement@example.com",
+      "subject": "Company Announcement",
+      "date": "2024-04-21",
+      "content": "We have an important announcement regarding company policies and procedures"
+    }
+]

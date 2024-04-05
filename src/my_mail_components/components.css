@@ -1,4 +1,13 @@
 /* Navbar */
+.navbar{
+  position: fixed;
+  margin-left: 60px;
+  margin-top: 0px;
+}
+.container-fluid{
+  background-color: #81e393;
+}
+
   /* search input */
 .search-input{
     width: 750px;
@@ -15,6 +24,17 @@
   background-color: #e6eaeada;
   border: none; 
   border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  margin-top: 10px;
+  position :sticky;
+  top:0px;
+  z-index: 1000;
+
 }
 
 /* compose */
@@ -32,3 +52,76 @@ textarea{
   border: 3px solid #0f0e0e; /* Border */
   border-radius: 7px; /* Border radius */
 }
+
+.sidebar-button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #269345;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.sidebar-button:hover {
+  background-color: #06521b;
+}
+
+.offcanvas-title{
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  color: #eae4e4;
+  background-color: #071309;
+  padding: 10px 20px;
+  border-radius: 30px;
+  box-shadow: 4 5px 4px rgba(0, 0, 0, 0.1);
+}
+.offcanvas-titl{
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  color: #eae4e4;
+  background-color: #071309;
+  padding: 10px 20px;
+  border-radius: 30px;
+  box-shadow: 4 5px 4px rgba(0, 0, 0, 0.1);
+}
+.sidebar-sticky{
+  display:flex;
+  align-items: flex-start;
+}
+.sidebar-menu {
+  padding: 20px; /* Padding around the menu */
+}
+
+.sidebar-menu ul {
+  list-style-type: none; /* Remove bullets from the list */
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-menu li {
+  margin-bottom: 10px; /* Add some space between list items */
+}
+
+.sidebar-menu a {
+  display: block; /* Display links as block-level elements */
+  text-decoration: none; /* Remove underline from links */
+  color: #fff; /* Text color of the links */
+  font-size: 16px; /* Font size of the links */
+  padding: 10px 20px; /* Padding inside each link */
+  background-color: #289549; /* Background color of the links */
+  border: none; /* Remove border */
+  border-radius: 5px; /* Add border radius for rounded corners */
+  transition: background-color 0.3s; /* Smooth transition for background color */
+}
+
+.sidebar-menu a:hover {
+  background-color: #0e6721; /* Background color of the links on hover */
+}
+
+
+
+
+
