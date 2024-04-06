@@ -2,7 +2,9 @@
 
 To run the code you have to first to npm start in your terminal and you are not required to give command cd as i have provided the direct react app
 
-Hosted link-
+Hosted link- https://6610eccc26d115a31507ca67--majestic-cendol-648366.netlify.app/
+
+
 Home Page -the first page when you open 
 ![Screenshot (3)](https://github.com/mantraj23/myapp/assets/154123657/a244eb2a-84d6-461a-8429-128c67072b65)
 
